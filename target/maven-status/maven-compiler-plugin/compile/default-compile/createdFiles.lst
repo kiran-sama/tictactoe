@@ -1,0 +1,15 @@
+com/pel/ttt/impl/TicTacToeComputerPlayer.class
+com/pel/ttt/impl/TicTacToeMoveValidator.class
+com/pel/ttt/impl/BoardImpl.class
+com/pel/ttt/impl/TicTacToeHumanPlayer.class
+com/pel/ttt/Board.class
+com/pel/ttt/Player.class
+com/pel/ttt/impl/RandomTicTacToeStrategy.class
+com/pel/ttt/Position.class
+com/pel/ttt/util/IllegalMoveException.class
+com/pel/ttt/Move.class
+com/pel/ttt/runner/Game.class
+com/pel/ttt/runner/GameRunner.class
+com/pel/ttt/TicTacToeStrategy.class
+com/pel/ttt/impl/TicTacToeGame.class
+com/pel/ttt/MoveValidator.class

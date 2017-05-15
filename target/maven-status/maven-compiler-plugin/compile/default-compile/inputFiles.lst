@@ -1,0 +1,15 @@
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/RandomTicTacToeStrategy.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/MoveValidator.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/runner/Game.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/TicTacToeComputerPlayer.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/BoardImpl.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/runner/GameRunner.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/util/IllegalMoveException.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/TicTacToeMoveValidator.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/TicTacToeGame.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/impl/TicTacToeHumanPlayer.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/Board.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/Position.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/Player.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/TicTacToeStrategy.java
+/Users/ksama/projects/personal/tic-tac-toe-game/src/main/java/com/pel/ttt/Move.java
